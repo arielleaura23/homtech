@@ -51,7 +51,7 @@
 </small>
                     <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+237 6 93 31 44 34
 </small>
-                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>Homtech@gmail.com</small>
+                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@example.com</small>
                 </div>
             </div>
             <div class="col-lg-4 text-center text-lg-end">
@@ -82,10 +82,27 @@
                     <a href="index.html" class="nav-item nav-link active">Home</a>
                     <a href="about.html" class="nav-item nav-link">About</a>
                     <a href="service.html" class="nav-item nav-link">Services</a>
-                    <a href="#" class="nav-item nav-link">internship</a>
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
+                        <div class="dropdown-menu m-0">
+                            <a href="blog.html" class="dropdown-item">Blog Grid</a>
+                            <a href="detail.html" class="dropdown-item">Blog Detail</a>
+                        </div>
+                    </div>
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                        <div class="dropdown-menu m-0">
+                            <a href="price.html" class="dropdown-item">Pricing Plan</a>
+                            <a href="feature.html" class="dropdown-item">Our features</a>
+                            <a href="team.html" class="dropdown-item">Team Members</a>
+                            <a href="testimonial.html" class="dropdown-item">Testimonial</a>
+                            <a href="quote.html" class="dropdown-item">Free Quote</a>
+                        </div>
+                    </div>
+                    <a href="contact.html" class="nav-item nav-link">Contact</a>
                 </div>
                 <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton>
-                <a href="contact.html" class="btn btn-primary py-2 px-4 ms-3">Contact Us</a>
+                <a href="https://htmlcodex.com/startup-company-website-template" class="btn btn-primary py-2 px-4 ms-3">Contact Us</a>
             </div>
         </nav>
 
@@ -242,7 +259,7 @@
                             <h5 class="mb-2">Call for your quote</h5>
                             <h4 class="text-primary mb-0">+237 6 93 31 44 34
 
-</h4>
+                            </h4>
                         </div>
                     </div>
                     <a href="quote.html" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Request A Quote</a>
@@ -259,57 +276,57 @@
 
 
     <!-- Features Start -->
-   <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
-    <div class="container py-5">
-        <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
-            <h5 class="fw-bold text-primary text-uppercase">Why Choose Us</h5>
-            <h1 class="mb-0">We Are Here to Accelerate Your Digital Transformation</h1>
-        </div>
-        <div class="row g-5">
-            <div class="col-lg-4">
-                <div class="row g-5">
-                    <div class="col-12 wow zoomIn" data-wow-delay="0.2s">
-                        <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa fa-cubes text-white"></i>
+    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container py-5">
+            <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+                <h5 class="fw-bold text-primary text-uppercase">Why Choose Us</h5>
+                <h1 class="mb-0">We Are Here to Accelerate Your Digital Transformation</h1>
+            </div>
+            <div class="row g-5">
+                <div class="col-lg-4">
+                    <div class="row g-5">
+                        <div class="col-12 wow zoomIn" data-wow-delay="0.2s">
+                            <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
+                                <i class="fa fa-cubes text-white"></i>
+                            </div>
+                            <h4>Leading Technology Solutions</h4>
+                            <p class="mb-0">Our solutions are designed with the latest innovations in mind to keep your business ahead of the competition.</p>
                         </div>
-                        <h4>Leading Technology Solutions</h4>
-                        <p class="mb-0">Our solutions are designed with the latest innovations in mind to keep your business ahead of the competition.</p>
-                    </div>
-                    <div class="col-12 wow zoomIn" data-wow-delay="0.6s">
-                        <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa fa-award text-white"></i>
+                        <div class="col-12 wow zoomIn" data-wow-delay="0.6s">
+                            <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
+                                <i class="fa fa-award text-white"></i>
+                            </div>
+                            <h4>Recognized Excellence</h4>
+                            <p class="mb-0">HomTech has received numerous awards for our excellence in IT services and customer satisfaction.</p>
                         </div>
-                        <h4>Recognized Excellence</h4>
-                        <p class="mb-0">HomTech has received numerous awards for our excellence in IT services and customer satisfaction.</p>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-4  wow zoomIn" data-wow-delay="0.9s" style="min-height: 350px;">
-                <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.1s" src="img/feature.jpg" style="object-fit: cover;">
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="row g-5">
-                    <div class="col-12 wow zoomIn" data-wow-delay="0.4s">
-                        <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa fa-users-cog text-white"></i>
-                        </div>
-                        <h4>Skilled IT Professionals</h4>
-                        <p class="mb-0">Our team of experts brings extensive experience in software, cybersecurity, and IT consulting to deliver outstanding results.</p>
+                <div class="col-lg-4  wow zoomIn" data-wow-delay="0.9s" style="min-height: 350px;">
+                    <div class="position-relative h-100">
+                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.1s" src="img/feature.jpg" style="object-fit: cover;">
                     </div>
-                    <div class="col-12 wow zoomIn" data-wow-delay="0.8s">
-                        <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                            <i class="fa fa-phone-alt text-white"></i>
+                </div>
+                <div class="col-lg-4">
+                    <div class="row g-5">
+                        <div class="col-12 wow zoomIn" data-wow-delay="0.4s">
+                            <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
+                                <i class="fa fa-users-cog text-white"></i>
+                            </div>
+                            <h4>Skilled IT Professionals</h4>
+                            <p class="mb-0">Our team of experts brings extensive experience in software, cybersecurity, and IT consulting to deliver outstanding results.</p>
                         </div>
-                        <h4>24/7 Client Support</h4>
-                        <p class="mb-0">We offer round-the-clock support to ensure your business stays up and running smoothly at all times.</p>
+                        <div class="col-12 wow zoomIn" data-wow-delay="0.8s">
+                            <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
+                                <i class="fa fa-phone-alt text-white"></i>
+                            </div>
+                            <h4>24/7 Client Support</h4>
+                            <p class="mb-0">We offer round-the-clock support to ensure your business stays up and running smoothly at all times.</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
 
     <!-- Features Start -->
 
@@ -531,330 +548,331 @@
             </div>
         </div>
     </div>
-    
+
     <!-- Quote End -->
 
-            <!-- Project Start -->
-            <div class="container-fluid project py-5 mb-5">
-                <div class="container">
-                    <div class="text-center mx-auto pb-5 wow fadeIn" data-wow-delay=".3s" style="max-width: 600px;">
-                        <h5 class="text-primary">Our service</h5>
-                        <h1>Our Recently Completed Services</h1>
-                    </div>
-                    <div class="row g-5">
-                        <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
-                            <div class="project-item">
-                                <div class="project-img">
-                                    <img src="img/project-1.jpg" class="img-fluid w-100 rounded" alt="">
-                                    <div class="project-content">
-                                        <a href="#" class="text-center">
-                                            <h4 class="text">Web design</h4>
-                                            <p class="m-0 text-white">Web Analysis</p>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
-                            <div class="project-item">
-                                <div class="project-img">
-                                    <img src="img/project-2.jpg" class="img-fluid w-100 rounded" alt="">
-                                    <div class="project-content">
-                                        <a href="#" class="text-center">
-                                            <h4 class="text">Cyber Security</h4>
-                                            <p class="m-0 text-white">Cyber Security Core</p>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
-                            <div class="project-item">
-                                <div class="project-img">
-                                    <img src="img/project-3.jpg" class="img-fluid w-100 rounded" alt="">
-                                    <div class="project-content">
-                                        <a href="#" class="text-center">
-                                            <h4 class="text">Mobile Info</h4>
-                                            <p class="m-0 text-white">Upcomming Phone</p>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
-                            <div class="project-item">
-                                <div class="project-img">
-                                    <img src="img/project-4.jpg" class="img-fluid w-100 rounded" alt="">
-                                    <div class="project-content">
-                                        <a href="#" class="text-center">
-                                            <h4 class="text">Web Development</h4>
-                                            <p class="m-0 text-white">Web Analysis</p>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
-                            <div class="project-item">
-                                <div class="project-img">
-                                    <img src="img/project-5.jpg" class="img-fluid w-100 rounded" alt="">
-                                    <div class="project-content">
-                                        <a href="#" class="text-center">
-                                            <h4 class="text">Digital Marketing</h4>
-                                            <p class="m-0 text-white">Marketing Analysis</p>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
-                            <div class="project-item">
-                                <div class="project-img">
-                                    <img src="img/project-6.jpg" class="img-fluid w-100 rounded" alt="">
-                                    <div class="project-content">
-                                        <a href="#" class="text-center">
-                                            <h4 class="text">keyword Research</h4>
-                                            <p class="m-0 text-white">keyword Analysis</p>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Project End -->
-
-
-                  <!-- Latest Projects-->
-      <section class="section section-sm section-fluid bg-default text-center" id="projects">
+    <!-- Project Start -->
+    <div class="container-fluid project py-5 mb-5">
         <div class="container">
-          <h2 class="wow fadeInLeft">Latest Projects</h2>
-          <p class="quote-jean wow fadeInRight" data-wow-delay=".1s">In our portfolio, you can browse the latest products developed for our clients for different corporate purposes. Our qualified team of interface designers and software developers is always ready to create something unique for you.</p>
-          <div class="isotope-filters isotope-filters-horizontal">
-            <button class="isotope-filters-toggle button button-md button-icon button-icon-right button-default-outline button-wapasha" data-custom-toggle="#isotope-3" data-custom-toggle-hide-on-blur="true" data-custom-toggle-disable-on-blur="true"><span class="icon fa fa-caret-down"></span>Filter</button>
-            <ul class="isotope-filters-list" id="isotope-3">
-              <li><a class="active" href="#" data-isotope-filter="*" data-isotope-group="gallery">All</a></li>
-              <li><a href="#" data-isotope-filter="Type 1" data-isotope-group="gallery">mobile Apps</a></li>
-              <li><a href="#" data-isotope-filter="Type 2" data-isotope-group="gallery">Custom Software</a></li>
-              <li><a href="#" data-isotope-filter="Type 3" data-isotope-group="gallery">QA & Testing</a></li>
-              <li><a href="#" data-isotope-filter="Type 4" data-isotope-group="gallery">UX and Design</a></li>
-            </ul>
-          </div>
-          <div class="row row-30 isotope" data-isotope-layout="fitRows" data-isotope-group="gallery" data-lightgallery="group">
-            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInRight" data-filter="Type 4">
-              <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-classic thumbnail-md">
-                <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-1-420x350.jpg" alt="" width="420" height="350"/>
-                </div>
-                <div class="thumbnail-classic-caption">
-                  <div class="thumbnail-classic-title-wrap"><a class="icon fl-bigmug-line-zoom60" href="images/grid-gallery-1-1200x800-original.jpg" data-lightgallery="item"><img src="images/fullwidth-gallery-1-420x350.jpg" alt="" width="420" height="350"/></a>
-                    <h5 class="thumbnail-classic-title"><a href="#">FinStep</a></h5>
-                  </div>
-                  <p class="thumbnail-classic-text">We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.</p>
-                </div>
-              </article>
+            <div class="text-center mx-auto pb-5 wow fadeIn" data-wow-delay=".3s" style="max-width: 600px;">
+                <h5 class="text-primary">Our service</h5>
+                <h1>Our Recently Completed Services</h1>
             </div>
-            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInRight" data-filter="Type 1" data-wow-delay=".1s">
-              <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-classic thumbnail-md">
-                <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-2-420x350.jpg" alt="" width="420" height="350"/>
-                </div>
-                <div class="thumbnail-classic-caption">
-                  <div class="thumbnail-classic-title-wrap"><a class="icon fl-bigmug-line-zoom60" href="images/grid-gallery-2-1200x800-original.jpg" data-lightgallery="item"><img src="images/fullwidth-gallery-2-420x350.jpg" alt="" width="420" height="350"/></a>
-                    <h5 class="thumbnail-classic-title"><a href="#">Mobile Finance</a></h5>
-                  </div>
-                  <p class="thumbnail-classic-text">We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.</p>
-                </div>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInRight" data-filter="Type 2" data-wow-delay=".2s">
-              <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-classic thumbnail-md">
-                <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-3-420x350.jpg" alt="" width="420" height="350"/>
-                </div>
-                <div class="thumbnail-classic-caption">
-                  <div class="thumbnail-classic-title-wrap"><a class="icon fl-bigmug-line-zoom60" href="images/grid-gallery-3-1200x800-original.jpg" data-lightgallery="item"><img src="images/fullwidth-gallery-3-420x350.jpg" alt="" width="420" height="350"/></a>
-                    <h5 class="thumbnail-classic-title"><a href="#">Q-Manage</a></h5>
-                  </div>
-                  <p class="thumbnail-classic-text">We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.</p>
-                </div>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInRight" data-filter="Type 3" data-wow-delay=".3s">
-              <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-classic thumbnail-md">
-                <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-4-420x350.jpg" alt="" width="420" height="350"/>
-                </div>
-                <div class="thumbnail-classic-caption">
-                  <div class="thumbnail-classic-title-wrap"><a class="icon fl-bigmug-line-zoom60" href="images/grid-gallery-4-1200x800-original.jpg" data-lightgallery="item"><img src="images/fullwidth-gallery-4-420x350.jpg" alt="" width="420" height="350"/></a>
-                    <h5 class="thumbnail-classic-title"><a href="#">WeatherCast</a></h5>
-                  </div>
-                  <p class="thumbnail-classic-text">We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.</p>
-                </div>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInLeft" data-filter="Type 3">
-              <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-classic thumbnail-md">
-                <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-5-420x350.jpg" alt="" width="420" height="350"/>
-                </div>
-                <div class="thumbnail-classic-caption">
-                  <div class="thumbnail-classic-title-wrap"><a class="icon fl-bigmug-line-zoom60" href="images/grid-gallery-5-1200x800-original.jpg" data-lightgallery="item"><img src="images/fullwidth-gallery-5-420x350.jpg" alt="" width="420" height="350"/></a>
-                    <h5 class="thumbnail-classic-title"><a href="#">Home Calendar</a></h5>
-                  </div>
-                  <p class="thumbnail-classic-text">We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.</p>
-                </div>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInLeft" data-filter="Type 1" data-wow-delay=".1s">
-              <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-classic thumbnail-md">
-                <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-6-420x350.jpg" alt="" width="420" height="350"/>
-                </div>
-                <div class="thumbnail-classic-caption">
-                  <div class="thumbnail-classic-title-wrap"><a class="icon fl-bigmug-line-zoom60" href="images/grid-gallery-6-1200x800-original.jpg" data-lightgallery="item"><img src="images/fullwidth-gallery-6-420x350.jpg" alt="" width="420" height="350"/></a>
-                    <h5 class="thumbnail-classic-title"><a href="#">MPlanner</a></h5>
-                  </div>
-                  <p class="thumbnail-classic-text">We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.</p>
-                </div>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInLeft" data-filter="Type 2" data-wow-delay=".2s">
-              <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-classic thumbnail-md">
-                <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-7-420x350.jpg" alt="" width="420" height="350"/>
-                </div>
-                <div class="thumbnail-classic-caption">
-                  <div class="thumbnail-classic-title-wrap"><a class="icon fl-bigmug-line-zoom60" href="images/grid-gallery-7-1200x800-original.jpg" data-lightgallery="item"><img src="images/fullwidth-gallery-7-420x350.jpg" alt="" width="420" height="350"/></a>
-                    <h5 class="thumbnail-classic-title"><a href="#">Alice Messenger</a></h5>
-                  </div>
-                  <p class="thumbnail-classic-text">We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.</p>
-                </div>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInLeft" data-filter="Type 3" data-wow-delay=".3s">
-              <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-classic thumbnail-md">
-                <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-8-420x350.jpg" alt="" width="420" height="350"/>
-                </div>
-                <div class="thumbnail-classic-caption">
-                  <div class="thumbnail-classic-title-wrap"><a class="icon fl-bigmug-line-zoom60" href="images/grid-gallery-8-1200x800-original.jpg" data-lightgallery="item"><img src="images/fullwidth-gallery-8-420x350.jpg" alt="" width="420" height="350"/></a>
-                    <h5 class="thumbnail-classic-title"><a href="#">WiseMoney</a></h5>
-                  </div>
-                  <p class="thumbnail-classic-text">We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.</p>
-                </div>
-              </article>
-            </div>
-          </div>
-        </div>
-      </section>
-
-
-       
-
-        <!-- Team Start -->
-        <div class="container-fluid team pb-5">
-            <div class="container pb-5">
-                <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-                    <h4 class="text-primary">Our Team</h4>
-                    <h1 class="display-5 mb-4">Meet Our Advisers</h1>
-                    <p class="mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt sint dolorem autem obcaecati, ipsam mollitia hic.
-                    </p>
-                </div>
-                <div class="row g-4">
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="img/team-1.jpg" class="img-fluid" alt="">
-                            </div>
-                            <div class="team-title">
-                                <h4 class="mb-0">Ing Nzima Loic</h4>
-                                <p class="mb-0">C E O</p>
-                            </div>
-                            <div class="team-icon">
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
+            <div class="row g-5">
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-1.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="#" class="text-center">
+                                    <h4 class="text">Web design</h4>
+                                    <p class="m-0 text-white">Web Analysis</p>
+                                </a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.4s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="img/team-2.jpg" class="img-fluid" alt="">
-                            </div>
-                            <div class="team-title">
-                                <h4 class="mb-0">Ing Nzima Loic</h4>
-                                <p class="mb-0">COORDINATOR</p>
-                            </div>
-                            <div class="team-icon">
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-2.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="#" class="text-center">
+                                    <h4 class="text">Cyber Security</h4>
+                                    <p class="m-0 text-white">Cyber Security Core</p>
+                                </a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="img/team-1.jpg" class="img-fluid" alt="">
-                            </div>
-                            <div class="team-title">
-                                <h4 class="mb-0">Ing Nzima Loic</h4>
-                                <p class="mb-0">C T O</p>
-                            </div>
-                            <div class="team-icon">
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-3.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="#" class="text-center">
+                                    <h4 class="text">Mobile Info</h4>
+                                    <p class="m-0 text-white">Upcomming Phone</p>
+                                </a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.8s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="img/team-2.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-4.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="#" class="text-center">
+                                    <h4 class="text">Web Development</h4>
+                                    <p class="m-0 text-white">Web Analysis</p>
+                                </a>
                             </div>
-                            <div class="team-title">
-                                <h4 class="mb-0">Ing Nzima Loic</h4>
-                                <p class="mb-0">G D</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-5.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="#" class="text-center">
+                                    <h4 class="text">Digital Marketing</h4>
+                                    <p class="m-0 text-white">Marketing Analysis</p>
+                                </a>
                             </div>
-                            <div class="team-icon">
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-6.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="#" class="text-center">
+                                    <h4 class="text">keyword Research</h4>
+                                    <p class="m-0 text-white">keyword Analysis</p>
+                                </a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Team End -->
+    </div>
+    <!-- Project End -->
 
-               <!-- Years of experience-->
-       <section class="section section-sm bg-default">
+
+    <!-- Latest Projects-->
+    <section class="section section-sm section-fluid bg-default text-center" id="projects">
         <div class="container">
-          <div class="row row-30 row-xl-24 justify-content-center align-items-center align-items-lg-start text-left">
-            <div class="col-md-6 col-lg-5 col-xl-4 text-center"><a class="text-img" href="#">
-                <div id="particles-js"></div><span class="counter">03</span></a></div>
-            <div class="col-sm-8 col-md-6 col-lg-5 col-xl-4">
-              <div class="text-width-extra-small offset-top-lg-24 wow fadeInUp">
-                <h3 class="title-decoration-lines-left">Years of Experience</h3>
-                <p class="text-gray-500">RatherApp is a team of highly experienced signers and developers creating unique software for you.</p><a class="button button-secondary button-pipaluk" href="#">Get in touch</a>
-              </div>
+            <h2 class="wow fadeInLeft">Latest Projects</h2>
+            <p class="quote-jean wow fadeInRight" data-wow-delay=".1s">In our portfolio, you can browse the latest products developed for our clients for different corporate purposes. Our qualified team of interface designers and software developers is always ready to create something unique for you.</p>
+            <div class="isotope-filters isotope-filters-horizontal">
+                <button class="isotope-filters-toggle button button-md button-icon button-icon-right button-default-outline button-wapasha" data-custom-toggle="#isotope-3" data-custom-toggle-hide-on-blur="true" data-custom-toggle-disable-on-blur="true"><span class="icon fa fa-caret-down"></span>Filter</button>
+                <ul class="isotope-filters-list" id="isotope-3">
+                    <li><a class="active" href="#" data-isotope-filter="*" data-isotope-group="gallery">All</a></li>
+                    <li><a href="#" data-isotope-filter="Type 1" data-isotope-group="gallery">mobile Apps</a></li>
+                    <li><a href="#" data-isotope-filter="Type 2" data-isotope-group="gallery">Custom Software</a></li>
+                    <li><a href="#" data-isotope-filter="Type 3" data-isotope-group="gallery">QA & Testing</a></li>
+                    <li><a href="#" data-isotope-filter="Type 4" data-isotope-group="gallery">UX and Design</a></li>
+                </ul>
             </div>
-
-            
-          </div>
+            <div class="row row-30 isotope" data-isotope-layout="fitRows" data-isotope-group="gallery" data-lightgallery="group">
+                <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInRight" data-filter="Type 4">
+                    <!-- Thumbnail Classic-->
+                    <article class="thumbnail thumbnail-classic thumbnail-md">
+                        <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-1-420x350.jpg" alt="" width="420" height="350" />
+                        </div>
+                        <div class="thumbnail-classic-caption">
+                            <div class="thumbnail-classic-title-wrap"><a class="icon fl-bigmug-line-zoom60" href="images/grid-gallery-1-1200x800-original.jpg" data-lightgallery="item"><img src="images/fullwidth-gallery-1-420x350.jpg" alt="" width="420" height="350" /></a>
+                                <h5 class="thumbnail-classic-title"><a href="#">FinStep</a></h5>
+                            </div>
+                            <p class="thumbnail-classic-text">We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.</p>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInRight" data-filter="Type 1" data-wow-delay=".1s">
+                    <!-- Thumbnail Classic-->
+                    <article class="thumbnail thumbnail-classic thumbnail-md">
+                        <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-2-420x350.jpg" alt="" width="420" height="350" />
+                        </div>
+                        <div class="thumbnail-classic-caption">
+                            <div class="thumbnail-classic-title-wrap"><a class="icon fl-bigmug-line-zoom60" href="images/grid-gallery-2-1200x800-original.jpg" data-lightgallery="item"><img src="images/fullwidth-gallery-2-420x350.jpg" alt="" width="420" height="350" /></a>
+                                <h5 class="thumbnail-classic-title"><a href="#">Mobile Finance</a></h5>
+                            </div>
+                            <p class="thumbnail-classic-text">We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.</p>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInRight" data-filter="Type 2" data-wow-delay=".2s">
+                    <!-- Thumbnail Classic-->
+                    <article class="thumbnail thumbnail-classic thumbnail-md">
+                        <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-3-420x350.jpg" alt="" width="420" height="350" />
+                        </div>
+                        <div class="thumbnail-classic-caption">
+                            <div class="thumbnail-classic-title-wrap"><a class="icon fl-bigmug-line-zoom60" href="images/grid-gallery-3-1200x800-original.jpg" data-lightgallery="item"><img src="images/fullwidth-gallery-3-420x350.jpg" alt="" width="420" height="350" /></a>
+                                <h5 class="thumbnail-classic-title"><a href="#">Q-Manage</a></h5>
+                            </div>
+                            <p class="thumbnail-classic-text">We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.</p>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInRight" data-filter="Type 3" data-wow-delay=".3s">
+                    <!-- Thumbnail Classic-->
+                    <article class="thumbnail thumbnail-classic thumbnail-md">
+                        <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-4-420x350.jpg" alt="" width="420" height="350" />
+                        </div>
+                        <div class="thumbnail-classic-caption">
+                            <div class="thumbnail-classic-title-wrap"><a class="icon fl-bigmug-line-zoom60" href="images/grid-gallery-4-1200x800-original.jpg" data-lightgallery="item"><img src="images/fullwidth-gallery-4-420x350.jpg" alt="" width="420" height="350" /></a>
+                                <h5 class="thumbnail-classic-title"><a href="#">WeatherCast</a></h5>
+                            </div>
+                            <p class="thumbnail-classic-text">We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.</p>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInLeft" data-filter="Type 3">
+                    <!-- Thumbnail Classic-->
+                    <article class="thumbnail thumbnail-classic thumbnail-md">
+                        <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-5-420x350.jpg" alt="" width="420" height="350" />
+                        </div>
+                        <div class="thumbnail-classic-caption">
+                            <div class="thumbnail-classic-title-wrap"><a class="icon fl-bigmug-line-zoom60" href="images/grid-gallery-5-1200x800-original.jpg" data-lightgallery="item"><img src="images/fullwidth-gallery-5-420x350.jpg" alt="" width="420" height="350" /></a>
+                                <h5 class="thumbnail-classic-title"><a href="#">Home Calendar</a></h5>
+                            </div>
+                            <p class="thumbnail-classic-text">We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.</p>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInLeft" data-filter="Type 1" data-wow-delay=".1s">
+                    <!-- Thumbnail Classic-->
+                    <article class="thumbnail thumbnail-classic thumbnail-md">
+                        <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-6-420x350.jpg" alt="" width="420" height="350" />
+                        </div>
+                        <div class="thumbnail-classic-caption">
+                            <div class="thumbnail-classic-title-wrap"><a class="icon fl-bigmug-line-zoom60" href="images/grid-gallery-6-1200x800-original.jpg" data-lightgallery="item"><img src="images/fullwidth-gallery-6-420x350.jpg" alt="" width="420" height="350" /></a>
+                                <h5 class="thumbnail-classic-title"><a href="#">MPlanner</a></h5>
+                            </div>
+                            <p class="thumbnail-classic-text">We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.</p>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInLeft" data-filter="Type 2" data-wow-delay=".2s">
+                    <!-- Thumbnail Classic-->
+                    <article class="thumbnail thumbnail-classic thumbnail-md">
+                        <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-7-420x350.jpg" alt="" width="420" height="350" />
+                        </div>
+                        <div class="thumbnail-classic-caption">
+                            <div class="thumbnail-classic-title-wrap"><a class="icon fl-bigmug-line-zoom60" href="images/grid-gallery-7-1200x800-original.jpg" data-lightgallery="item"><img src="images/fullwidth-gallery-7-420x350.jpg" alt="" width="420" height="350" /></a>
+                                <h5 class="thumbnail-classic-title"><a href="#">Alice Messenger</a></h5>
+                            </div>
+                            <p class="thumbnail-classic-text">We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.</p>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInLeft" data-filter="Type 3" data-wow-delay=".3s">
+                    <!-- Thumbnail Classic-->
+                    <article class="thumbnail thumbnail-classic thumbnail-md">
+                        <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-8-420x350.jpg" alt="" width="420" height="350" />
+                        </div>
+                        <div class="thumbnail-classic-caption">
+                            <div class="thumbnail-classic-title-wrap"><a class="icon fl-bigmug-line-zoom60" href="images/grid-gallery-8-1200x800-original.jpg" data-lightgallery="item"><img src="images/fullwidth-gallery-8-420x350.jpg" alt="" width="420" height="350" /></a>
+                                <h5 class="thumbnail-classic-title"><a href="#">WiseMoney</a></h5>
+                            </div>
+                            <p class="thumbnail-classic-text">We work hard on every app to deliver top-notch features with great UI that you won’t find anywhere else.</p>
+                        </div>
+                    </article>
+                </div>
+            </div>
         </div>
-      </section>
+    </section>
 
-            <!-- FAQs Start -->
+
+
+
+    <!-- Team Start -->
+    <div class="container-fluid team pb-5">
+        <div class="container pb-5">
+            <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
+                <h4 class="text-primary">Our Team</h4>
+                <h1 class="display-5 mb-4">Meet Our Advisers</h1>
+                <p class="mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt sint dolorem autem obcaecati, ipsam mollitia hic.
+                </p>
+            </div>
+            <div class="row g-4">
+                <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="team-item">
+                        <div class="team-img">
+                            <img src="img/team-1.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="team-title">
+                            <h4 class="mb-0">Ing Nzima Loic</h4>
+                            <p class="mb-0">C E O</p>
+                        </div>
+                        <div class="team-icon">
+                            <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="team-item">
+                        <div class="team-img">
+                            <img src="img/team-2.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="team-title">
+                            <h4 class="mb-0">Ing Nzima Loic</h4>
+                            <p class="mb-0">COORDINATOR</p>
+                        </div>
+                        <div class="team-icon">
+                            <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="team-item">
+                        <div class="team-img">
+                            <img src="img/team-1.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="team-title">
+                            <h4 class="mb-0">Ing Nzima Loic</h4>
+                            <p class="mb-0">C T O</p>
+                        </div>
+                        <div class="team-icon">
+                            <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.8s">
+                    <div class="team-item">
+                        <div class="team-img">
+                            <img src="img/team-2.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="team-title">
+                            <h4 class="mb-0">Ing Nzima Loic</h4>
+                            <p class="mb-0">G D</p>
+                        </div>
+                        <div class="team-icon">
+                            <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-primary btn-sm-square rounded-circle me-3" href=""><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-primary btn-sm-square rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Team End -->
+
+    <!-- Years of experience-->
+    <section class="section section-sm bg-default">
+        <div class="container">
+            <div class="row row-30 row-xl-24 justify-content-center align-items-center align-items-lg-start text-left">
+                <div class="col-md-6 col-lg-5 col-xl-4 text-center"><a class="text-img" href="#">
+                        <div id="particles-js"></div><span class="counter">03</span>
+                    </a></div>
+                <div class="col-sm-8 col-md-6 col-lg-5 col-xl-4">
+                    <div class="text-width-extra-small offset-top-lg-24 wow fadeInUp">
+                        <h3 class="title-decoration-lines-left">Years of Experience</h3>
+                        <p class="text-gray-500">RatherApp is a team of highly experienced signers and developers creating unique software for you.</p><a class="button button-secondary button-pipaluk" href="#">Get in touch</a>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQs Start -->
     <div class="container-fluid py-5">
         <div class="container py-5">
             <div class="mx-auto text-center wow fadeIn" data-wow-delay="0.1s" style="max-width: 500px;">
@@ -987,7 +1005,7 @@
     </div>
     <!-- FAQs Start -->
 
-            <!-- Newsletter Start -->
+    <!-- Newsletter Start -->
     <div class="container-fluid bg-primary newsletter py-5">
         <div class="container">
             <div class="row g-5 align-items-center">
@@ -1030,7 +1048,7 @@
         </div>
     </div>
     <!-- Vendor End -->
-    
+
 
     <!-- Footer Start -->
     <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s">
@@ -1038,8 +1056,8 @@
             <div class="row gx-5">
                 <div class="col-lg-4 col-md-6 footer-about">
                     <div class="d-flex flex-column align-items-center justify-content-center text-center h-100 bg-primary p-4">
-                        <a href="index.html" class="navbar-brand p-0">
-                            <img src="img/logo.png" alt="logo">
+                        <a href="index.html" class="navbar-brand">
+                            <h1 class="m-0 text-white"><i class="fa fa-user-tie me-2"></i>Startup</h1>
                         </a>
                         <p class="mt-3 mb-4">Lorem diam sit erat dolor elitr et, diam lorem justo amet clita stet eos sit. Elitr dolor duo lorem, elitr clita ipsum sea. Diam amet erat lorem stet eos. Diam amet et kasd eos duo.</p>
                         <form action="">
@@ -1058,15 +1076,15 @@
                             </div>
                             <div class="d-flex mb-2">
                                 <i class="bi bi-geo-alt text-primary me-2"></i>
-                                <p class="mb-0">Yaounde, TKC (derrière flemming)</p>
+                                <p class="mb-0">123 Street, New York, USA</p>
                             </div>
                             <div class="d-flex mb-2">
                                 <i class="bi bi-envelope-open text-primary me-2"></i>
-                                <p class="mb-0">Homtech@gmail.com</p>
+                                <p class="mb-0">info@example.com</p>
                             </div>
                             <div class="d-flex mb-2">
                                 <i class="bi bi-telephone text-primary me-2"></i>
-                                <p class="mb-0">+237 6 93 31 44 34</p>
+                                <p class="mb-0">+012 345 67890</p>
                             </div>
                             <div class="d-flex mt-4">
                                 <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-twitter fw-normal"></i></a>
@@ -1083,7 +1101,8 @@
                                 <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
                                 <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
                                 <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Internship</a>
+                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Meet The Team</a>
+                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Latest Blog</a>
                                 <a class="text-light" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
                             </div>
                         </div>
@@ -1095,7 +1114,8 @@
                                 <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
                                 <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
                                 <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Internship</a>
+                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Meet The Team</a>
+                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Latest Blog</a>
                                 <a class="text-light" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
                             </div>
                         </div>
@@ -1109,10 +1129,10 @@
             <div class="row justify-content-end">
                 <div class="col-lg-8 col-md-6">
                     <div class="d-flex align-items-center justify-content-center" style="height: 75px;">
-                        <p class="mb-0">&copy; <a class="text-white border-bottom" href="#">Hometch</a>. All Rights Reserved. 
+                        <p class="mb-0">&copy; <a class="text-white border-bottom" href="#">Your Site Name</a>. All Rights Reserved. 
 						
 						<!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-						Designed by <a class="text-white border-bottom" href="#">Homtech</a></p>
+						Designed by <a class="text-white border-bottom" href="https://htmlcodex.com">HTML Codex</a></p>
                     </div>
                 </div>
             </div>
