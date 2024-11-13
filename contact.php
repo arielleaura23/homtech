@@ -29,6 +29,7 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    
 </head>
 
 <body>
@@ -90,9 +91,10 @@
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Contact Us</h5>
-                <h1 class="mb-0">If You Have Any Query, Feel Free To Contact Us</h1>
+                <h1 class="mb-0">If You Have Any Query <br>Feel Free To Contact Us</h1>
+                <p>We are a digital and technological innovation startup ready to take on any challenge</p>
             </div>
-            <div class="row g-5 mb-5">
+            <div class="row g-5 mb-5" style="display: flex;align-items:center;">
                 <div class="col-lg-4">
                     <div class="d-flex align-items-center wow fadeIn" data-wow-delay="0.1s">
                         <div class="bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
@@ -101,6 +103,8 @@
                         <div class="ps-4">
                             <h5 class="mb-2">Call to ask any question</h5>
                             <h4 class="text-primary mb-0">+237 6 93 31 44 34
+                            </h4>
+                            <h4 class="text-primary mb-0">+237 6 53 36 54 75
                             </h4>
                         </div>
                     </div>
@@ -123,7 +127,7 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="mb-2">Visit our office</h5>
-                            <h4 class="text-primary mb-0">Yaounde, TKC (derrière flemming)</h4>
+                            <h4 class="text-primary mb-0">Yaounde, TKC (Behind flemming college)</h4>
                         </div>
                     </div>
                 </div>

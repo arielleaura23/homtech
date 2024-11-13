@@ -2,6 +2,7 @@
 :root {
     --primary: #06A3DA;
     --secondary: #FF6600;
+    --tertiaire: #d400ff;
     --light: #EEF9FF;
     --dark: #091E3E;
 }
@@ -61,6 +62,10 @@
     font-size: 12px!important;
     color: red!important;
 }
+.dark{
+    background-color: black!important;
+}
+
 
 
 /*** Team Start ***/
@@ -194,7 +199,7 @@ img{
     height: 150px;
     top: 0;
     left: 0;
-    background: var(--secondary);
+    background: var(--tertiaire);
     border-radius: 10px;
     opacity: 1;
     z-index: -1;

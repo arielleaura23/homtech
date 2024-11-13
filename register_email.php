@@ -22,16 +22,27 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     $mail = new PHPMailer(true);
 
+
     try {
-        // Configuration de Mailpit en local
+        // Configuration de Mail SMTP
         $mail->isSMTP();
-        $mail->Host = 'localhost';
-        $mail->Port = 1025;
-        $mail->SMTPAuth = false;
+        $mail->Host = 'smtp.gmail.com'; // Serveur SMTP de Gmail
+        $mail->SMTPAuth = true;
+        $mail->Username = 'abomoarielle43@gmail.com'; // Remplacez par votre adresse e-mail Gmail
+        $mail->Password = '#23moutardes'; // Remplacez par votre mot de passe ou un mot de passe d'application
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; // Sécurisation de la connexion
+        $mail->Port = 587; // Port SMTP de Gmail (587 pour TLS)
+
+
+        // $mail->isSMTP();
+        // $mail->Host = 'localhost';
+        // $mail->Port = 1025;
+        // $mail->SMTPAuth = false;
+
 
         // Informations de l'e-mail
         $mail->setFrom($email, $name);
-        $mail->addAddress('homtech@gmail.com');
+        $mail->addAddress('homtech@gmail.com'); // L'adresse à laquelle vous voulez envoyer l'e-mail
 
         // Sujet et contenu de l'e-mail
         $mail->Subject = "Nouvelle inscription";

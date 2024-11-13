@@ -3,12 +3,13 @@
         <div class="row gx-0">
             <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
-                    <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Yaounde, TKC (derrière flemming)
+                    <small class="me-3 text-light" style="white-space: nowrap!important;"><i class="fa fa-map-marker-alt me-2"></i>Yaounde, TKC (Behind flemming college)
 
 </small>
-                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+237 6 93 31 44 34
+                    <small class="me-3 text-light" style="white-space: nowrap!important;"><i class="fa fa-phone-alt me-2"></i>+237 6 93 31 44 34</small>
+                    <small class="me-3 text-light" style="white-space: nowrap!important;"><i class="fa fa-phone-alt me-2"></i>+237 6 53 36 54 75</small>
 </small>
-                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>Homtech@gmail.com</small>
+                    <small class="text-light" style="white-space: nowrap!important;"><i class="fa fa-envelope-open me-2"></i>Homtech@gmail.com</small>
                 </div>
             </div>
             <div class="col-lg-4 text-center text-lg-end">

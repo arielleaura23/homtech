@@ -98,8 +98,8 @@
                 <button class="isotope-filters-toggle button button-md button-icon button-icon-right button-default-outline button-wapasha" data-custom-toggle="#isotope-3" data-custom-toggle-hide-on-blur="true" data-custom-toggle-disable-on-blur="true"><span class="icon fa fa-caret-down"></span>Filter</button>
                 <ul class="isotope-filters-list" id="isotope-3">
                     <!-- <li><a class="active" href="#" data-isotope-filter="*" data-isotope-group="gallery">First edition</a></li> -->
-                    <li><a href="#" class="active" data-isotope-filter="Type 1" data-isotope-group="gallery">First edition</a></li>
-                    <li><a href="second_edition.php" data-isotope-filter="Type 2" data-isotope-group="gallery">Second edition</a></li>
+                    <li><a href="blog.php"  data-isotope-filter="Type 1" data-isotope-group="gallery">First edition</a></li>
+                    <li><a href="#" class="active"  data-isotope-filter="Type 2" data-isotope-group="gallery">Second edition</a></li>
                 </ul>
             </div>
             <div class="row g-5">
