@@ -54,7 +54,8 @@
         include('navbar.php')
         ?>
 
-        <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
+        <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;height:100vh;  background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../hometechsolution/img/carousel-1.jpg) center center no-repeat !important;
+    background-size: cover;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
                     <h1 class="display-4 text-white animated zoomIn">About Us</h1>

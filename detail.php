@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Startup - Startup Website Template</title>
+    <title>Homtech</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -52,16 +52,18 @@
         include('navbar.php')
         ?>
 
-        <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
+<div class="container-fluid bg-primary py-5 intership" style="margin-bottom: 90px;height:100vh;  background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../hometechsolution/img/intership.jpg) center center no-repeat !important;
+    background-size: cover;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                    <h1 class="display-4 text-white animated zoomIn">Blog Detail</h1>
+                    <h1 class="display-4 text-white animated zoomIn">Intership</h1>
                     <a href="" class="h5 text-white">Home</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">Blog Detail</a>
+                    <a href="" class="h5 text-white">Intership</a>
                 </div>
             </div>
         </div>
+    </div>
     </div>
     <!-- Navbar End -->
 
@@ -92,69 +94,52 @@
                 <div class="col-lg-8">
                     <!-- Blog Detail Start -->
                     <div class="mb-5">
-                        <img class="img-fluid w-100 rounded mb-5" src="img/blog-1.jpg" alt="">
-                        <h1 class="mb-4">Diam dolor est labore duo ipsum clita sed et lorem tempor duo</h1>
-                        <p>Sadipscing labore amet rebum est et justo gubergren. Et eirmod ipsum sit diam ut
-                            magna lorem. Nonumy vero labore lorem sanctus rebum et lorem magna kasd, stet
-                            amet magna accusam consetetur eirmod. Kasd accusam sit ipsum sadipscing et at at
-                            sanctus et. Ipsum sit gubergren dolores et, consetetur justo invidunt at et
-                            aliquyam ut et vero clita. Diam sea sea no sed dolores diam nonumy, gubergren
-                            sit stet no diam kasd vero.</p>
-                        <p>Voluptua est takimata stet invidunt sed rebum nonumy stet, clita aliquyam dolores
-                            vero stet consetetur elitr takimata rebum sanctus. Sit sed accusam stet sit
-                            nonumy kasd diam dolores, sanctus lorem kasd duo dolor dolor vero sit et. Labore
-                            ipsum duo sanctus amet eos et. Consetetur no sed et aliquyam ipsum justo et,
-                            clita lorem sit vero amet amet est dolor elitr, stet et no diam sit. Dolor erat
-                            justo dolore sit invidunt.</p>
-                        <p>Diam dolor est labore duo invidunt ipsum clita et, sed et lorem voluptua tempor
-                            invidunt at est sanctus sanctus. Clita dolores sit kasd diam takimata justo diam
-                            lorem sed. Magna amet sed rebum eos. Clita no magna no dolor erat diam tempor
-                            rebum consetetur, sanctus labore sed nonumy diam lorem amet eirmod. No at tempor
-                            sea diam kasd, takimata ea nonumy elitr sadipscing gubergren erat. Gubergren at
-                            lorem invidunt sadipscing rebum sit amet ut ut, voluptua diam dolores at
-                            sadipscing stet. Clita dolor amet dolor ipsum vero ea ea eos.</p>
-                        <p>Voluptua est takimata stet invidunt sed rebum nonumy stet, clita aliquyam dolores
-                            vero stet consetetur elitr takimata rebum sanctus. Sit sed accusam stet sit
-                            nonumy kasd diam dolores, sanctus lorem kasd duo dolor dolor vero sit et. Labore
-                            ipsum duo sanctus amet eos et. Consetetur no sed et aliquyam ipsum justo et,
-                            clita lorem sit vero amet amet est dolor elitr, stet et no diam sit. Dolor erat
-                            justo dolore sit invidunt.</p>
+                        <img class="img-fluid w-100 rounded mb-5" src="img/banner-4.jpg" alt="Développement web">
+                        <h1 class="mb-4">Les Fondamentaux du Développement Web</h1>
+                        <p>Le développement web consiste en la création de sites et d'applications web, et s'articule autour de deux principales catégories : le front-end, qui concerne la partie visible par l’utilisateur, et le back-end, qui gère la logique et les données en arrière-plan. Ces deux aspects se combinent pour offrir des expériences utilisateur fluides et efficaces.</p>
+
+                        <p>Dans le développement front-end, les langages HTML, CSS et JavaScript sont les éléments de base. HTML structure le contenu, CSS le stylise, et JavaScript ajoute de l’interactivité. Ensemble, ces technologies permettent de créer des interfaces réactives et adaptées aux besoins des utilisateurs. Les frameworks et bibliothèques comme React, Vue ou Angular facilitent la création d’interfaces utilisateur modernes.</p>
+
+                        <p>Le back-end, quant à lui, repose sur des langages comme PHP, Python, Ruby, ou Node.js, et est souvent associé à des bases de données telles que MySQL, PostgreSQL ou MongoDB. Ce côté serveur gère les données, la logique applicative et la sécurité. En utilisant des frameworks comme Laravel, Django ou Express.js, les développeurs peuvent structurer efficacement leur code et accélérer le développement.</p>
+
+                        <p>Les technologies et bonnes pratiques évoluent rapidement en développement web. L’utilisation de systèmes de gestion de versions (comme Git), de tests automatisés et de déploiements continus (CI/CD) font désormais partie intégrante du processus de développement. Ces outils aident les équipes à travailler en collaboration et à maintenir une qualité de code élevée.</p>
+
+                        <p>Que ce soit pour créer un site vitrine, une application e-commerce, ou une plateforme interactive, le développement web est une discipline polyvalente qui requiert un apprentissage continu. Avec la montée de nouvelles technologies, le futur du développement web promet d’être encore plus dynamique, avec une place croissante pour l’intelligence artificielle, l’accessibilité et l’optimisation des performances.</p>
                     </div>
+
                     <!-- Blog Detail End -->
 
                     <!-- Comment List Start -->
                     <div class="mb-5">
                         <div class="section-title section-title-sm position-relative pb-3 mb-4">
-                            <h3 class="mb-0">3 Comments</h3>
+                            <h3 class="mb-0">3 Commentaires</h3>
                         </div>
                         <div class="d-flex mb-4">
                             <img src="img/user.jpg" class="img-fluid rounded" style="width: 45px; height: 45px;">
                             <div class="ps-3">
-                                <h6><a href="">John Doe</a> <small><i>01 Jan 2045</i></small></h6>
-                                <p>Diam amet duo labore stet elitr invidunt ea clita ipsum voluptua, tempor labore
-                                    accusam ipsum et no at. Kasd diam tempor rebum magna dolores sed eirmod</p>
-                                <button class="btn btn-sm btn-light">Reply</button>
+                                <h6><a href="">Alice Dupont</a> <small><i>15 Nov 2024</i></small></h6>
+                                <p>Très bon article sur le développement web ! J’apprécie la manière dont vous avez expliqué les différences entre le front-end et le back-end. C’est clair et facile à comprendre, même pour les débutants.</p>
+                                <button class="btn btn-sm btn-light">Répondre</button>
                             </div>
                         </div>
                         <div class="d-flex mb-4">
                             <img src="img/user.jpg" class="img-fluid rounded" style="width: 45px; height: 45px;">
                             <div class="ps-3">
-                                <h6><a href="">John Doe</a> <small><i>01 Jan 2045</i></small></h6>
-                                <p>Diam amet duo labore stet elitr invidunt ea clita ipsum voluptua, tempor labore
-                                    accusam ipsum et no at. Kasd diam tempor rebum magna dolores sed eirmod</p>
-                                <button class="btn btn-sm btn-light">Reply</button>
+                                <h6><a href="">Marc Lambert</a> <small><i>14 Nov 2024</i></small></h6>
+                                <p>Merci pour cet article ! J’aimerais savoir quels frameworks vous recommandez pour débuter en développement front-end. Il y a tellement de choix qu’il est facile de se perdre.</p>
+                                <button class="btn btn-sm btn-light">Répondre</button>
                             </div>
                         </div>
                         <div class="d-flex ms-5 mb-4">
                             <img src="img/user.jpg" class="img-fluid rounded" style="width: 45px; height: 45px;">
                             <div class="ps-3">
-                                <h6><a href="">John Doe</a> <small><i>01 Jan 2045</i></small></h6>
-                                <p>Diam amet duo labore stet elitr invidunt ea clita ipsum voluptua, tempor labore
-                                    accusam ipsum et no at. Kasd diam tempor rebum magna dolores sed eirmod</p>
-                                <button class="btn btn-sm btn-light">Reply</button>
+                                <h6><a href="">Claire Martin</a> <small><i>14 Nov 2024</i></small></h6>
+                                <p>@Marc Lambert Je te recommande de commencer par React ou Vue, car ils sont bien documentés et utilisés dans de nombreux projets. Ces frameworks te permettent de développer rapidement des interfaces dynamiques !</p>
+                                <button class="btn btn-sm btn-light">Répondre</button>
                             </div>
                         </div>
                     </div>
+
                     <!-- Comment List End -->
 
                     <!-- Comment Form Start -->
@@ -202,58 +187,49 @@
                             <h3 class="mb-0">Categories</h3>
                         </div>
                         <div class="link-animated d-flex flex-column justify-content-start">
-                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Web Design</a>
-                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Web Development</a>
-                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Web Development</a>
-                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Keyword Research</a>
-                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Email Marketing</a>
+                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Software engineering / Genie logiciel</a>
+                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>E-commerce and digital marketing / Marketing digital </a>
+                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Network and security / Réseaux et sécurités
+                            </a>
+                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Computer graphics and web design / Infographie</a>
+                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Cybersecurity /  Cybersecurite</a>
                         </div>
                     </div>
                     <!-- Category End -->
 
-                    <!-- Recent Post Start -->
                     <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
                         <div class="section-title section-title-sm position-relative pb-3 mb-4">
                             <h3 class="mb-0">Recent Post</h3>
+                            <p>Nouvelle edition bientot disponible ici </p>
                         </div>
                         <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-1.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
+                            <img class="img-fluid" src="img/project-1.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Software engineering
                             </a>
                         </div>
                         <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-2.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
+                            <img class="img-fluid" src="img/project-2.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">E-commerce and digital marketing
                             </a>
                         </div>
                         <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-3.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
+                            <img class="img-fluid" src="img/project-2.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Network and security
                             </a>
                         </div>
                         <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-1.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
+                            <img class="img-fluid" src="img/project-5.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Computer graphics and web design
                             </a>
                         </div>
                         <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-2.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
+                            <img class="img-fluid" src="img/project-6.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Cybersecurity
                             </a>
                         </div>
-                        <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-3.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
-                            </a>
-                        </div>
-                    </div>
-                    <!-- Recent Post End -->
 
-                    <!-- Image Start -->
-                    <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
-                        <img src="img/blog-1.jpg" alt="" class="img-fluid rounded">
                     </div>
-                    <!-- Image End -->
+
 
                     <!-- Tags Start -->
                     <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
@@ -277,17 +253,7 @@
                     </div>
                     <!-- Tags End -->
 
-                    <!-- Plain Text Start -->
-                    <div class="wow slideInUp" data-wow-delay="0.1s">
-                        <div class="section-title section-title-sm position-relative pb-3 mb-4">
-                            <h3 class="mb-0">Plain Text</h3>
-                        </div>
-                        <div class="bg-light text-center" style="padding: 30px;">
-                            <p>Vero sea et accusam justo dolor accusam lorem consetetur, dolores sit amet sit dolor clita kasd justo, diam accusam no sea ut tempor magna takimata, amet sit et diam dolor ipsum amet diam</p>
-                            <a href="" class="btn btn-primary py-2 px-4">Read More</a>
-                        </div>
-                    </div>
-                    <!-- Plain Text End -->
+
                 </div>
                 <!-- Sidebar End -->
             </div>

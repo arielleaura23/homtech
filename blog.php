@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Startup - Startup Website Template</title>
+    <title>Homtech</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -52,13 +52,14 @@
         include('navbar.php')
         ?>
 
-        <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
+        <div class="container-fluid bg-primary py-5 intership" style="margin-bottom: 90px;height:100vh;  background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../hometechsolution/img/intership.jpg) center center no-repeat !important;
+    background-size: cover;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                    <h1 class="display-4 text-white animated zoomIn">Blog Grid</h1>
+                    <h1 class="display-4 text-white animated zoomIn">Intership</h1>
                     <a href="" class="h5 text-white">Home</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">Blog Grid</a>
+                    <a href="" class="h5 text-white">Intership</a>
                 </div>
             </div>
         </div>
@@ -89,6 +90,10 @@
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5">
+                <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+                    <h5 class="fw-bold text-primary text-uppercase">Intership</h5>
+                    <h1 class="mb-0">News about Fisrt edition</h1>
+                </div>
                 <!-- Blog list Start -->
                 <div class="col-lg-8">
                     <div class="row g-5">
@@ -96,172 +101,74 @@
                             <div class="blog-item bg-light rounded overflow-hidden">
                                 <div class="blog-img position-relative overflow-hidden">
                                     <img class="img-fluid" src="img/blog-1.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="#">Digital Marketing</a>
                                 </div>
                                 <div class="p-4">
                                     <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Alice Smith</small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>12 Feb, 2024</small>
                                     </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                                    <h4 class="mb-3">Mastering Social Media Strategies</h4>
+                                    <p>Discover the most effective social media strategies to grow your brand and connect with your audience.</p>
+                                    <a class="text-uppercase" href="detail.php">Read More <i class="bi bi-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.6s">
-                            <div class="blog-item bg-light rounded overflow-hidden">
-                                <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog-2.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
-                                </div>
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
-                                    </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.1s">
-                            <div class="blog-item bg-light rounded overflow-hidden">
-                                <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog-3.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
-                                </div>
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
-                                    </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.6s">
-                            <div class="blog-item bg-light rounded overflow-hidden">
-                                <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog-1.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
-                                </div>
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
-                                    </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
+
                         <div class="col-md-6 wow slideInUp" data-wow-delay="0.1s">
                             <div class="blog-item bg-light rounded overflow-hidden">
                                 <div class="blog-img position-relative overflow-hidden">
                                     <img class="img-fluid" src="img/blog-2.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="#">Travel Tips</a>
                                 </div>
                                 <div class="p-4">
                                     <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>James Brown</small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>22 Mar, 2024</small>
                                     </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                                    <h4 class="mb-3">Exploring the Hidden Gems of Europe</h4>
+                                    <p>Get ready for an adventure as we explore some of Europe's best-kept secrets, from quaint villages to breathtaking landscapes.</p>
+                                    <a class="text-uppercase" href="detail.php">Read More <i class="bi bi-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.6s">
+
+                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.2s">
                             <div class="blog-item bg-light rounded overflow-hidden">
                                 <div class="blog-img position-relative overflow-hidden">
                                     <img class="img-fluid" src="img/blog-3.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="#">Health & Wellness</a>
                                 </div>
                                 <div class="p-4">
                                     <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Emma White</small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>10 Apr, 2024</small>
                                     </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                                    <h4 class="mb-3">The Ultimate Guide to Healthy Eating</h4>
+                                    <p>Learn how to make smarter food choices, create balanced meals, and boost your energy with nutritious, delicious foods.</p>
+                                    <a class="text-uppercase" href="detail.php">Read More <i class="bi bi-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.1s">
-                            <div class="blog-item bg-light rounded overflow-hidden">
-                                <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog-1.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
-                                </div>
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
-                                    </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.6s">
-                            <div class="blog-item bg-light rounded overflow-hidden">
-                                <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog-2.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
-                                </div>
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
-                                    </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.1s">
+                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.2s">
                             <div class="blog-item bg-light rounded overflow-hidden">
                                 <div class="blog-img position-relative overflow-hidden">
                                     <img class="img-fluid" src="img/blog-3.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="#">Health & Wellness</a>
                                 </div>
                                 <div class="p-4">
                                     <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Emma White</small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>10 Apr, 2024</small>
                                     </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                                    <h4 class="mb-3">The Ultimate Guide to Healthy Eating</h4>
+                                    <p>Learn how to make smarter food choices, create balanced meals, and boost your energy with nutritious, delicious foods.</p>
+                                    <a class="text-uppercase" href="detail.php">Read More <i class="bi bi-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.6s">
-                            <div class="blog-item bg-light rounded overflow-hidden">
-                                <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog-1.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
-                                </div>
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
-                                    </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
+
+
                         <div class="col-12 wow slideInUp" data-wow-delay="0.1s">
                             <nav aria-label="Page navigation">
                                 <ul class="pagination pagination-lg m-0">
@@ -302,11 +209,12 @@
                             <h3 class="mb-0">Categories</h3>
                         </div>
                         <div class="link-animated d-flex flex-column justify-content-start">
-                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Web Design</a>
-                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Web Development</a>
-                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Web Development</a>
-                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Keyword Research</a>
-                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Email Marketing</a>
+                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Software engineering / Genie logiciel</a>
+                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>E-commerce and digital marketing / Marketing digital </a>
+                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Network and security / Réseaux et sécurités
+                            </a>
+                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Computer graphics and web design / Infographie</a>
+                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Cybersecurity /  Cybersecurite</a>
                         </div>
                     </div>
                     <!-- Category End -->
@@ -315,48 +223,45 @@
                     <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
                         <div class="section-title section-title-sm position-relative pb-3 mb-4">
                             <h3 class="mb-0">Recent Post</h3>
+                            <p>Nouvelle edition bientot disponible ici </p>
                         </div>
                         <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-1.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
+                            <img class="img-fluid" src="img/project-1.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Software engineering
                             </a>
                         </div>
                         <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-2.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
+                            <img class="img-fluid" src="img/project-2.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">E-commerce and digital marketing
                             </a>
                         </div>
                         <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-3.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
+                            <img class="img-fluid" src="img/project-2.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Network and security
                             </a>
                         </div>
                         <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-1.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
+                            <img class="img-fluid" src="img/project-5.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Computer graphics and web design
                             </a>
                         </div>
                         <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-2.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
+                            <img class="img-fluid" src="img/project-6.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Cybersecurity
                             </a>
                         </div>
-                        <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-3.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
-                            </a>
-                        </div>
+
                     </div>
                     <!-- Recent Post End -->
 
                     <!-- Image Start -->
                     <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
-                        <img src="img/blog-1.jpg" alt="" class="img-fluid rounded">
+                        <img src="img/PXL_20240809_090839106.jpg" alt="" class="img-fluid rounded">
                     </div>
                     <!-- Image End -->
 
                     <!-- Tags Start -->
-                    <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
+                    <!-- <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
                         <div class="section-title section-title-sm position-relative pb-3 mb-4">
                             <h3 class="mb-0">Tag Cloud</h3>
                         </div>
@@ -374,22 +279,117 @@
                             <a href="" class="btn btn-light m-1">Writing</a>
                             <a href="" class="btn btn-light m-1">Consulting</a>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- Tags End -->
 
-                    <!-- Plain Text Start -->
-                    <div class="wow slideInUp" data-wow-delay="0.1s">
-                        <div class="section-title section-title-sm position-relative pb-3 mb-4">
-                            <h3 class="mb-0">Plain Text</h3>
-                        </div>
-                        <div class="bg-light text-center" style="padding: 30px;">
-                            <p>Vero sea et accusam justo dolor accusam lorem consetetur, dolores sit amet sit dolor clita kasd justo, diam accusam no sea ut tempor magna takimata, amet sit et diam dolor ipsum amet diam</p>
-                            <a href="" class="btn btn-primary py-2 px-4">Read More</a>
-                        </div>
-                    </div>
-                    <!-- Plain Text End -->
+
                 </div>
                 <!-- Sidebar End -->
+            </div>
+            <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+                <h5 class="fw-bold text-primary text-uppercase">Intership</h5>
+                <h1 class="mb-0">News Services about the second edition</h1>
+            </div>
+            <div class="row g-5">
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-1.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="detail.php" class="text-center">
+                                    <h4 class="text">Software development</h4>
+                                    <p class="m-0 text-white">development </p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-2.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="detail.php" class="text-center">
+                                    <h4 class="text">Professional IT Training </h4>
+                                    <p class="m-0 text-white">IT training</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-3.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="detail.php" class="text-center">
+                                    <h4 class="text">Photography and videography</h4>
+                                    <p class="m-0 text-white">photography</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-4.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="detail.php" class="text-center">
+                                    <h4 class="text">Logo and personal branding</h4>
+                                    <p class="m-0 text-white">Branding</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-5.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="detail.php" class="text-center">
+                                    <h4 class="text">Data sciences / Analysis </h4>
+                                    <p class="m-0 text-white">Data</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-6.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="detail.php" class="text-center">
+                                    <h4 class="text">Graphic and UI/UX design </h4>
+                                    <p class="m-0 text-white">Graphic</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="container-fluid bg-primary newsletter py-5">
+        <div class="container">
+            <div class="row g-5 align-items-center">
+                <div class="col-md-5 ps-lg-0 pt-5 pt-md-0 text-start wow fadeIn" data-wow-delay="0.3s">
+                    <img class="img-fluid" src="img/newsletter.png" alt="">
+                </div>
+                <div class="col-md-7 py-5 newsletter-text wow fadeIn" data-wow-delay="0.5s">
+                    <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Second edition</div>
+                    <h1 class="text-white mb-4">Let's subscribe here about the second edition</h1>
+                    <div class="position-relative w-100 mt-3 mb-2">
+                        <a href="register.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="    background-color: #ff6600;
+    border-radius: 20px;display:flex;justify-content:space-between;width:50%;
+">Just subcribe now <i class="fa fa-paper-plane text-primary fs-4"></i></a>
+                        <i class="fa fa-paper-plane text-primary fs-4"></i>
+                    </div>
+
+                </div>
             </div>
         </div>
     </div>
