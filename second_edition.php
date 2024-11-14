@@ -98,7 +98,7 @@
                 <button class="isotope-filters-toggle button button-md button-icon button-icon-right button-default-outline button-wapasha" data-custom-toggle="#isotope-3" data-custom-toggle-hide-on-blur="true" data-custom-toggle-disable-on-blur="true"><span class="icon fa fa-caret-down"></span>Filter</button>
                 <ul class="isotope-filters-list" id="isotope-3">
                     <!-- <li><a class="active" href="#" data-isotope-filter="*" data-isotope-group="gallery">First edition</a></li> -->
-                    <li><a href="blog.php"  data-isotope-filter="Type 1" data-isotope-group="gallery">First edition</a></li>
+                    <li><a href="blog.php" data-isotope-filter="Type 1" data-isotope-group="gallery">First edition</a></li>
                     <li><a href="#" class="active"  data-isotope-filter="Type 2" data-isotope-group="gallery">Second edition</a></li>
                 </ul>
             </div>
@@ -296,6 +296,118 @@
 
 
     </section>
+
+
+        <!-- Project Start -->
+        <div class="container-fluid project py-5 mb-5">
+        <div class="container">
+            <div class="text-center mx-auto pb-5 wow fadeIn" data-wow-delay=".3s" style="max-width: 600px;">
+                <h5 class="text-primary">Our service</h5>
+                <h1>Our Recently Completed Services</h1>
+            </div>
+            <div class="row g-5">
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-1.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="#" class="text-center">
+                                    <h4 class="text">Web design</h4>
+                                    <p class="m-0 text-white">Web Analysis</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-2.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="#" class="text-center">
+                                    <h4 class="text">Cyber Security</h4>
+                                    <p class="m-0 text-white">Cyber Security Core</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-3.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="#" class="text-center">
+                                    <h4 class="text">Mobile Info</h4>
+                                    <p class="m-0 text-white">Upcomming Phone</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-4.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="#" class="text-center">
+                                    <h4 class="text">Web Development</h4>
+                                    <p class="m-0 text-white">Web Analysis</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-5.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="#" class="text-center">
+                                    <h4 class="text">Digital Marketing</h4>
+                                    <p class="m-0 text-white">Marketing Analysis</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                    <div class="project-item">
+                        <div class="project-img">
+                            <img src="img/project-6.jpg" class="img-fluid w-100 rounded" alt="">
+                            <div class="project-content">
+                                <a href="#" class="text-center">
+                                    <h4 class="text">keyword Research</h4>
+                                    <p class="m-0 text-white">keyword Analysis</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Project End -->
+
+        <!-- Newsletter Start -->
+        <div class="container-fluid bg-primary newsletter py-5">
+        <div class="container">
+            <div class="row g-5 align-items-center">
+                <div class="col-md-5 ps-lg-0 pt-5 pt-md-0 text-start wow fadeIn" data-wow-delay="0.3s">
+                    <img class="img-fluid" src="img/newsletter.png" alt="">
+                </div>
+                <div class="col-md-7 py-5 newsletter-text wow fadeIn" data-wow-delay="0.5s">
+                    <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Newsletter</div>
+                    <h1 class="text-white mb-4">Let's subscribe the newsletter</h1>
+                    <a href="register.php" class="position-relative w-100 mt-3 mb-2">
+                        <button class="border-0 rounded-pill w-50 ps-4 pe-5" style="height: 48px;display: flex;justify-content: space-between;align-items: center;background-color:var(--secondary);color:white;">Just subscribe now<i
+                        class="fa fa-paper-plane text-primary fs-4"></i></button>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Newsletter End -->
 
 
 
